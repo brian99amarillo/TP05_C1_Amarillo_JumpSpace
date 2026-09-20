@@ -7,6 +7,7 @@ public class GameSettingsPlayerSO : ScriptableObject
     [SerializeField] public float startPositiony = -1.2f;
     [SerializeField] public KeyCode moveUp = KeyCode.Space;
     [SerializeField] public Vector2 startPosition;
+    [SerializeField] public float speed=10f;
     private void OnEnable()
     {
         startPosition = new Vector2(startPositionx, startPositiony);

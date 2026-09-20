@@ -6,23 +6,14 @@ public class ObtaculeMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 starPosObtacule;
     public float speedObtacule;
-    private float RandomX;
-    private float RandomY;
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
     }
 
-    private void Start()
-    {
-        starPosObtacule = ObtaculeSO.startPosition;
-        transform.position = starPosObtacule;
-    }
-
-
     private void Update()
     {
-        rb.AddForce(new Vector2(-speedObtacule, 0f));
+       rb.linearVelocity = new Vector2(-speedObtacule, rb.linearVelocity.y);
     }
 }

@@ -9,10 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d4df65cfaea9b4045849241b18eb4cfd, type: 3}
-  m_Name: GameSettingsPlayer
-  m_EditorClassIdentifier: Assembly-CSharp::GameSettingsPlayerSO
-  startPositionx: -6
-  startPositiony: -1.2
-  moveUp: 32
-  startPosition: {x: -6, y: -1.2}
+  m_Script: {fileID: 11500000, guid: d741468588ef4974cb88a4c736030574, type: 3}
+  m_Name: GameSettingsObtacule
+  m_EditorClassIdentifier: Assembly-CSharp::GameSettingsObtaculeSO
+  minY: 0.65
+  maxY: 2.5
