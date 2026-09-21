@@ -4,17 +4,17 @@ using UnityEngine;
 public class Spawner : MonoBehaviour
 {
     [SerializeField] private GameSettingsObtaculeSO obtaculeSO;
-    public GameObject asteroidPrefab;
-    public float timeSpawn = 5f;
     public Transform player;
-    public float spawnDistanceX = 15f;
+    public GameObject asteroidPrefab;
+    public float timeSpawn = 2f;
+    public float spawnDistanceX = 20f;
 
     private void Start()
     {
         InvokeRepeating(nameof(SpawnObtacule), 0f, timeSpawn);
     }
 
-    public void SpawnObtacule()
+    public void SpawnObtacule()     // Spawneo el obstaculo a una distancia de el player  
     {
 
         float spawnX = player.position.x + spawnDistanceX;

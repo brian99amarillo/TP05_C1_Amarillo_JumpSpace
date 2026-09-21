@@ -4,7 +4,6 @@ public class ObtaculeMovement : MonoBehaviour
 {
     [SerializeField] private GameSettingsObtaculeSO ObtaculeSO;
     private Rigidbody2D rb;
-    private Vector2 starPosObtacule;
     public float speedObtacule;
 
     private void Awake()

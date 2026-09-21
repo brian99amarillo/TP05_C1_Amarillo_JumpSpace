@@ -37,7 +37,6 @@ public class MovementPlayer : MonoBehaviour
             rb.AddForce(new Vector2(0, fuerzasalto), ForceMode2D.Impulse);   // impulso al player hacia el eje Y
             jump = true;
             jumpInprogress = false;
-            Debug.Log("salto");
         }
     }
 
@@ -47,12 +46,14 @@ public class MovementPlayer : MonoBehaviour
         {
             jump = false;
         }
-        if (collision.gameObject.CompareTag("Asteroid"))
+        if (collision.gameObject.CompareTag("Asteroid"))            // Si el player colisiono con el obtaculo se termina el juego
         {
             controllerMusic.PauseMusicGameplay();
             CanvasGameOver.SetActive(true);
             Time.timeScale = 0f;
         }
     }
+
+
 
 }

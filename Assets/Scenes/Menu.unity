@@ -774,6 +774,10 @@ PrefabInstance:
       propertyPath: audioSource
       value: 
       objectReference: {fileID: 255796892}
+    - target: {fileID: 2950671866717133838, guid: 3ed39c7ae3392384aaa0d085b1f06afe, type: 3}
+      propertyPath: m_text
+      value: "\nDev : Brian Amarillo\n\nassest \r\n\r\nBackground:\r\nhttps://dinvstudio.itch.io/dynamic-space-background-lite-free\r\nhttps://es.pngtree.com/back/down?id=MTg5MzgyMzg=&type=1&time=1789881974&token=NjQ3OTkxZjZlMzNjNGMxYmI0MGI3YzIyMzEyOTg1YzI=&t=0\nhttps://space-spheremaps.itch.io/space-spheremaps\r\n\r\nFonts\r\nhttps://www.dafont.com/es/space-age.font\r\n\r\nGUI:\r\nhttps://wenrexa.itch.io/holoui\n\nMusic:\nhttps://alkakrab.itch.io/sci-fi-music-pack-vol-3\nhttps://hoveaudio.itch.io/free-sci-fi-ui-sound-effects-pack\n\r\n"
+      objectReference: {fileID: 0}
     - target: {fileID: 3080077497124299333, guid: 3ed39c7ae3392384aaa0d085b1f06afe, type: 3}
       propertyPath: m_IsActive
       value: 0
