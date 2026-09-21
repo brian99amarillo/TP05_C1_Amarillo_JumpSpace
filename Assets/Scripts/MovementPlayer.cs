@@ -4,6 +4,7 @@ public class MovementPlayer : MonoBehaviour
 {
     [SerializeField] private GameSettingsPlayerSO playerSO;
     [SerializeField] private GameObject CanvasGameOver;
+    [SerializeField] private ControllerMusic controllerMusic;
 
     private Rigidbody2D rb;
     private Vector2 starPos;
@@ -48,6 +49,7 @@ public class MovementPlayer : MonoBehaviour
         }
         if (collision.gameObject.CompareTag("Asteroid"))
         {
+            controllerMusic.PauseMusicGameplay();
             CanvasGameOver.SetActive(true);
             Time.timeScale = 0f;
         }

@@ -54,8 +54,8 @@ public class UIMainMenu : MonoBehaviour
     }
     private void OnExitButtonClicked() 
     {
-        Application.Quit();
-#if UNITY_EDITOR
+     Application.Quit();
+#if UNITY_EDITOR && !UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
 #endif
     }

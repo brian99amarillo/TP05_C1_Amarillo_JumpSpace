@@ -15,11 +15,11 @@ public class UIMenuPause : MonoBehaviour
     [SerializeField] private GameObject SettingsPanel;
     [SerializeField] private GameObject CredittsPanel;
     [SerializeField] private GameObject Game;
-    private bool isPause = false;
 
+    [SerializeField] private ControllerMusic controllerMusic;
+    private bool isPause = false;
     private void Awake()
-    { 
-        // Botones del menu principal
+    {   // Botones del menu principal
         btnContinue.onClick.AddListener(OnContinueButtonClicked);
         btnSettings.onClick.AddListener(OnSettingsButtonClicked);
         btnCreditts.onClick.AddListener(OnCredittsButtonClicked);
@@ -39,20 +39,25 @@ public class UIMenuPause : MonoBehaviour
         }
     }
     private void Pausar()
-    {   isPause = true;
+    {
+        isPause = true;
+        controllerMusic.PauseMusicGameplay();
+        controllerMusic.ActiveMusicMenuPause();
         Game.SetActive(false);
         Pause.SetActive(true);
         Time.timeScale = 0f; // Detiene el tiempo
     }
 
     private void Reanudar()
-    {   isPause = false;
+    {
+        isPause = false;
+        controllerMusic.StopMusicMenuPause();
+        controllerMusic.ActiveMusicGameplay();
         Pause.SetActive(false);
         Game.SetActive(true);
         Time.timeScale = 1f; // Reanuda el tiempo
     }
-
-    private void OnDestroy()  
+        private void OnDestroy()  
     {
         // Botones del menu de pausa
         btnContinue.onClick.RemoveListener(OnContinueButtonClicked);
@@ -77,7 +82,7 @@ public class UIMenuPause : MonoBehaviour
     private void OnExitButtonClicked() 
     {
         Application.Quit();
-#if UNITY_EDITOR
+#if UNITY_EDITOR && !UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
 #endif
     }
