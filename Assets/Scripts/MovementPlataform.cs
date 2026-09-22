@@ -4,7 +4,7 @@ public class MovementPlataform : MonoBehaviour
 {
     [SerializeField] private GameSettingsPlataformSO plataformSO;
     private Rigidbody2D rb;
-    private float speed = 5f;
+    [SerializeField] private float speed = 5f;
     private Vector2 starPos;
 
     private void Awake()
@@ -16,7 +16,6 @@ public class MovementPlataform : MonoBehaviour
     {
         starPos = plataformSO.startPosition;
         transform.position = starPos;
-        speed = plataformSO.speed;
     }
 
     private void Update()

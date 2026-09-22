@@ -3,12 +3,11 @@
 [CreateAssetMenu(fileName = "GameSettingsPlataform", menuName = "Settings/GameSettingsPlataform")]
 public class GameSettingsPlataformSO : ScriptableObject
 {
-    [SerializeField] public float starPosicionX = 11f;
-    [SerializeField] public float starPosicionY = 0f;
-    [SerializeField] public Vector2 startPosition;
-    [SerializeField] public float speed = 5f;
+    [SerializeField] private float starPosicionX = 0f;
+    [SerializeField] private float starPosicionY = -1.5f;
+     public Vector2 startPosition;
     
-    private void OnEnable()
+   public void PositionPlataform()
     {
         startPosition = new Vector2(-starPosicionX, starPosicionY);
     }

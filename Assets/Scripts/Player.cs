@@ -1,10 +1,14 @@
+using System.Collections;
 using UnityEngine;
 
-public class MovementPlayer : MonoBehaviour
+public class Player : MonoBehaviour
 {
     [SerializeField] private GameSettingsPlayerSO playerSO;
     [SerializeField] private GameObject CanvasGameOver;
     [SerializeField] private ControllerMusic controllerMusic;
+    [SerializeField] private PowerUpShiel power;
+    public bool activedInvincibility = false;
+    private float timePowerUp = 5f; 
 
     private Rigidbody2D rb;
     private Vector2 starPos;
@@ -46,14 +50,35 @@ public class MovementPlayer : MonoBehaviour
         {
             jump = false;
         }
-        if (collision.gameObject.CompareTag("Asteroid"))            // Si el player colisiono con el obtaculo se termina el juego
         {
-            controllerMusic.PauseMusicGameplay();
-            CanvasGameOver.SetActive(true);
-            Time.timeScale = 0f;
+            if (collision.gameObject.CompareTag("Asteroid") && !activedInvincibility)            // Si el player colisiono con el obtaculo se termina el juego
+            {   
+                GameOver();
+            }
         }
     }
 
+    public void Invicibility()
+    {
+        StartCoroutine(InvicibilityRoutine());
+    }
+
+    private IEnumerator InvicibilityRoutine()
+    {
+        activedInvincibility = true;
+        Physics2D.IgnoreLayerCollision(gameObject.layer, LayerMask.NameToLayer("Invisibility"), true);
+
+        yield return new WaitForSeconds(timePowerUp);
+
+        activedInvincibility = false;
+        Physics2D.IgnoreLayerCollision(gameObject.layer, LayerMask.NameToLayer("Invisibility"), false);
+    }
 
 
+    private void GameOver()
+    {
+        controllerMusic.PauseMusicGameplay();
+        CanvasGameOver.SetActive(true);
+        Time.timeScale = 0f;
+    }
 }

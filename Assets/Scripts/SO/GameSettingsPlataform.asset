@@ -12,7 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e804949220b5d544fb809ebbc38ee1a1, type: 3}
   m_Name: GameSettingsPlataform
   m_EditorClassIdentifier: Assembly-CSharp::GameSettingsPlataformSO
-  starPosicionX: 11
-  starPosicionY: 0
-  startPosition: {x: -11, y: 0}
-  speed: 5
+  starPosicionX: 0
+  starPosicionY: -1.5
+  startPosition: {x: 0, y: -1.5}
