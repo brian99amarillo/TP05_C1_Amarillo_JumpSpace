@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d741468588ef4974cb88a4c736030574, type: 3}
   m_Name: GameSettingsObtacule
   m_EditorClassIdentifier: Assembly-CSharp::GameSettingsObtaculeSO
-  minY: 1
+  minY: -4
   maxY: 4

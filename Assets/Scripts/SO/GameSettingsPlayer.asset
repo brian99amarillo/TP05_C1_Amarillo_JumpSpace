@@ -14,6 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GameSettingsPlayerSO
   startPositionx: 0
   startPositiony: 0
-  moveUp: 32
   startPosition: {x: 0, y: 0}
   speed: 5

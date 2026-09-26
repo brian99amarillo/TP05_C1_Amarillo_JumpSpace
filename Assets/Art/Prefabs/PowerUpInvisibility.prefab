@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 7700805095913702850}
   - component: {fileID: 3218228586539383051}
   - component: {fileID: -2476657972445676219}
-  - component: {fileID: 7978870391175904637}
+  - component: {fileID: 7337415908009579257}
   m_Layer: 0
-  m_Name: Circle
+  m_Name: PowerUpInvisibility
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 6489237731028140957}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.04867, y: 3.60969, z: 0}
+  m_LocalPosition: {x: 25.54, y: 0.45, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -80,8 +80,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 833941301
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
@@ -124,7 +124,7 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -152,12 +152,12 @@ Rigidbody2D:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!114 &7978870391175904637
+  m_Constraints: 4
+--- !u!114 &7337415908009579257
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -166,9 +166,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 6489237731028140957}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5986440d9e97d99418b05daa8658e6ad, type: 3}
+  m_Script: {fileID: 11500000, guid: 6b8dd3e975691b14aac6f47e0a1d7c59, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PowerUpShiel
+  m_EditorClassIdentifier: Assembly-CSharp::PowerUpInvisibility
   PowerUpPrefab: {fileID: 6489237731028140957}
   player: {fileID: 0}
-  activedShield: 0

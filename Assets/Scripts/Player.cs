@@ -6,14 +6,12 @@ public class Player : MonoBehaviour
     [SerializeField] private GameSettingsPlayerSO playerSO;
     [SerializeField] private GameObject CanvasGameOver;
     [SerializeField] private ControllerMusic controllerMusic;
-    [SerializeField] private PowerUpShiel power;
-    public bool activedInvincibility = false;
-    private float timePowerUp = 5f; 
-
+    
+    
     private Rigidbody2D rb;
     private Vector2 starPos;
     private float speedPlayer1;
-    public float fuerzasalto;
+    private float fuerzasalto = 10;
     private bool jump = false;
     private bool jumpInprogress = false;
 
@@ -24,9 +22,9 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
-        starPos = playerSO.startPosition;
+        starPos = playerSO.StartPosition;
         transform.position = starPos;
-        speedPlayer1 = playerSO.speed;
+        speedPlayer1 = playerSO.Speed;
     }
     private void Update()
     {
@@ -51,29 +49,12 @@ public class Player : MonoBehaviour
             jump = false;
         }
         {
-            if (collision.gameObject.CompareTag("Asteroid") && !activedInvincibility)            // Si el player colisiono con el obtaculo se termina el juego
+            if (collision.gameObject.CompareTag("Asteroid") && !PowerUpInvisibility.activedInvincibility)    // Si el player colisiono con el obtaculo se termina el juego
             {   
                 GameOver();
             }
         }
     }
-
-    public void Invicibility()
-    {
-        StartCoroutine(InvicibilityRoutine());
-    }
-
-    private IEnumerator InvicibilityRoutine()
-    {
-        activedInvincibility = true;
-        Physics2D.IgnoreLayerCollision(gameObject.layer, LayerMask.NameToLayer("Invisibility"), true);
-
-        yield return new WaitForSeconds(timePowerUp);
-
-        activedInvincibility = false;
-        Physics2D.IgnoreLayerCollision(gameObject.layer, LayerMask.NameToLayer("Invisibility"), false);
-    }
-
 
     private void GameOver()
     {

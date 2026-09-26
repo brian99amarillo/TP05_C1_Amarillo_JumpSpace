@@ -13,9 +13,9 @@ TagManager:
   - 
   - Water
   - UI
-  - Invisibility
+  - Asteroid
   - Player
-  - 
+  - Plataform
   - 
   - 
   - 
@@ -42,6 +42,15 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 833941301
+    locked: 0
+  - name: Player
+    uniqueID: 849070949
+    locked: 0
+  - name: Asteroid
+    uniqueID: 1657612657
     locked: 0
   m_RenderingLayers:
   - Default
