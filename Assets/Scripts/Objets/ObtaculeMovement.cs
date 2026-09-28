@@ -3,6 +3,7 @@
 public class ObtaculeMovement : MonoBehaviour
 {
     [SerializeField] private GameSettingsObtaculeSO ObtaculeSO;
+    [SerializeField] private Animator animator;
     private Rigidbody2D rb;
     public float speedObtacule;
 
@@ -14,5 +15,6 @@ public class ObtaculeMovement : MonoBehaviour
     private void Update()
     {
        rb.linearVelocity = new Vector2(-speedObtacule, rb.linearVelocity.y);
+       animator.SetTrigger("Rotate");
     }
 }

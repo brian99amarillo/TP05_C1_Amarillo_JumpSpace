@@ -1,4 +1,5 @@
 using System.Collections;
+using UnityEditor.Rendering.Universal.ShaderGUI;
 using UnityEngine;
 
 public class Player : MonoBehaviour
@@ -6,13 +7,14 @@ public class Player : MonoBehaviour
     [SerializeField] private GameSettingsPlayerSO playerSO;
     [SerializeField] private GameObject CanvasGameOver;
     [SerializeField] private ControllerMusic controllerMusic;
-    
-    
+    [SerializeField] private PowerUpLifeExtra life;
+    [SerializeField] private Animator animator;
     private Rigidbody2D rb;
     private Vector2 starPos;
     private float speedPlayer1;
     private float fuerzasalto = 10;
     private bool jump = false;
+  
     private bool jumpInprogress = false;
 
     private void Awake()
@@ -29,7 +31,11 @@ public class Player : MonoBehaviour
     private void Update()
     {
         rb.linearVelocity = new Vector2(speedPlayer1, rb.linearVelocity.y);
-        if (Input.GetKeyDown(KeyCode.Space) && !jump) { jumpInprogress = true; }    // Chequeo si se apreta el boton de salto y que el player no este saltando
+        if (Input.GetKeyDown(KeyCode.Space) && !jump)
+        {
+            jumpInprogress = true;     // Chequeo si se apreta el boton de salto y que el player no este saltando
+            animator.SetTrigger("Jump");
+        }
 
     }
     private void FixedUpdate()
@@ -48,14 +54,27 @@ public class Player : MonoBehaviour
         {
             jump = false;
         }
+
+        if (collision.gameObject.CompareTag("Asteroid"))
         {
-            if (collision.gameObject.CompareTag("Asteroid") && !PowerUpInvisibility.activedInvincibility)    // Si el player colisiono con el obtaculo se termina el juego
-            {   
-                GameOver();
+            if (!PowerUpInvisibility.activedInvincibility)
+            {
+                if (PowerUpLifeExtra.counter > 0)
+                {
+                    PowerUpLifeExtra.counter--;
+                    UILife.Instance.UpdateHearts((int)PowerUpLifeExtra.counter);
+                    Destroy(collision.gameObject);
+                }
+                else
+                {
+                    GameOver();
+                }
             }
+
         }
     }
-
+        
+    
     private void GameOver()
     {
         controllerMusic.PauseMusicGameplay();

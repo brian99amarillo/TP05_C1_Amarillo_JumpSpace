@@ -2,9 +2,7 @@
 
 public class Parallax : MonoBehaviour
 {
-    //[SerializeField] private GameObject ObjectBackground;
     [SerializeField] private Vector2 velocity;
-
     private Vector2 offset;
     private Material material;
 

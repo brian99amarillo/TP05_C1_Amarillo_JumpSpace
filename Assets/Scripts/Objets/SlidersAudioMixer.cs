@@ -11,8 +11,6 @@ public class SlidersAudioMixer : MonoBehaviour
     [SerializeField] private Slider sliderBackground;
     [SerializeField] private Slider sliderSFX;
     [SerializeField] private Slider sliderUI;
-
-
     private void Awake()
     {
         sliderMaster.onValueChanged.AddListener(OnSliderMasterChanged);

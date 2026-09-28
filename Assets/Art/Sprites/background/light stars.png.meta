@@ -1,0 +1,2769 @@
+fileFormatVersion: 2
+guid: 36921107986329d499d9110cb021e6ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4464990586312742287
+    second: light stars_0
+  - first:
+      213: -6718312210081858786
+    second: light stars_1
+  - first:
+      213: -7557358567816917897
+    second: light stars_2
+  - first:
+      213: 4659947076909624100
+    second: light stars_3
+  - first:
+      213: 3239628931151965452
+    second: light stars_4
+  - first:
+      213: -6033552222013945222
+    second: light stars_5
+  - first:
+      213: -8723652615097840812
+    second: light stars_6
+  - first:
+      213: 1748278457819629769
+    second: light stars_7
+  - first:
+      213: -170597224777066236
+    second: light stars_8
+  - first:
+      213: 847692751938983523
+    second: light stars_9
+  - first:
+      213: 4996239931953834080
+    second: light stars_10
+  - first:
+      213: -2839473628780229854
+    second: light stars_11
+  - first:
+      213: 2371732519055294608
+    second: light stars_12
+  - first:
+      213: 3657535226051358201
+    second: light stars_13
+  - first:
+      213: 261702477800658831
+    second: light stars_14
+  - first:
+      213: -2594566761356123013
+    second: light stars_15
+  - first:
+      213: 9033141145325848625
+    second: light stars_16
+  - first:
+      213: -5597696473076288987
+    second: light stars_17
+  - first:
+      213: -4862340263686391547
+    second: light stars_18
+  - first:
+      213: 9004170522091688454
+    second: light stars_19
+  - first:
+      213: -5704122702980249595
+    second: light stars_20
+  - first:
+      213: -4256122554870095041
+    second: light stars_21
+  - first:
+      213: -7462635849952269023
+    second: light stars_22
+  - first:
+      213: -8991150295483707548
+    second: light stars_23
+  - first:
+      213: -2072578852128237860
+    second: light stars_24
+  - first:
+      213: 7575589805258415654
+    second: light stars_25
+  - first:
+      213: 8671346390186289823
+    second: light stars_26
+  - first:
+      213: -6402771956043911839
+    second: light stars_27
+  - first:
+      213: -5727311362868340984
+    second: light stars_28
+  - first:
+      213: 4307158332943110776
+    second: light stars_29
+  - first:
+      213: -8249428612223492366
+    second: light stars_30
+  - first:
+      213: -1285159462863119516
+    second: light stars_31
+  - first:
+      213: -1606619104955632611
+    second: light stars_32
+  - first:
+      213: -113953138335133314
+    second: light stars_33
+  - first:
+      213: 1699794154677862396
+    second: light stars_34
+  - first:
+      213: 2027540026204624854
+    second: light stars_35
+  - first:
+      213: 3246359017232665504
+    second: light stars_36
+  - first:
+      213: -8416979110901643997
+    second: light stars_37
+  - first:
+      213: 2822903509649244702
+    second: light stars_38
+  - first:
+      213: 7353857429167627972
+    second: light stars_39
+  - first:
+      213: -4377127530217445758
+    second: light stars_40
+  - first:
+      213: -8434652937686061471
+    second: light stars_41
+  - first:
+      213: 8596532865640363248
+    second: light stars_42
+  - first:
+      213: -2025551458900324852
+    second: light stars_43
+  - first:
+      213: 4485578158484493152
+    second: light stars_44
+  - first:
+      213: 468698394423764167
+    second: light stars_45
+  - first:
+      213: 2652061814092230406
+    second: light stars_46
+  - first:
+      213: -8742436163153410410
+    second: light stars_47
+  - first:
+      213: 213917815441548824
+    second: light stars_48
+  - first:
+      213: 6912107875810718380
+    second: light stars_49
+  - first:
+      213: -6660902493049766103
+    second: light stars_50
+  - first:
+      213: 8393542520882981101
+    second: light stars_51
+  - first:
+      213: 5688256135106661536
+    second: light stars_52
+  - first:
+      213: -5262658484370436359
+    second: light stars_53
+  - first:
+      213: 6037466490481330229
+    second: light stars_54
+  - first:
+      213: 6041679490261982595
+    second: light stars_55
+  - first:
+      213: 7654863112662456238
+    second: light stars_56
+  - first:
+      213: -8983504761651151824
+    second: light stars_57
+  - first:
+      213: 849279036762314022
+    second: light stars_58
+  - first:
+      213: -4335422706725662432
+    second: light stars_59
+  - first:
+      213: -2381017638474556142
+    second: light stars_60
+  - first:
+      213: -2830713995656365071
+    second: light stars_61
+  - first:
+      213: 3870879250028874383
+    second: light stars_62
+  - first:
+      213: 6169178302978401241
+    second: light stars_63
+  - first:
+      213: -8168175801049128069
+    second: light stars_64
+  - first:
+      213: -7327491602676804569
+    second: light stars_65
+  - first:
+      213: 7929889310541182602
+    second: light stars_66
+  - first:
+      213: -7822850958492434304
+    second: light stars_67
+  - first:
+      213: -2970264140689167233
+    second: light stars_68
+  - first:
+      213: -6694325132505128036
+    second: light stars_69
+  - first:
+      213: -6901695686001063276
+    second: light stars_70
+  - first:
+      213: 3816611961708688899
+    second: light stars_71
+  - first:
+      213: 7750543664664220121
+    second: light stars_72
+  - first:
+      213: -415582544708824449
+    second: light stars_73
+  - first:
+      213: 6278147895782257462
+    second: light stars_74
+  - first:
+      213: -54516538879581390
+    second: light stars_75
+  - first:
+      213: -4219683068851051195
+    second: light stars_76
+  - first:
+      213: 2400300718836748567
+    second: light stars_77
+  - first:
+      213: 5501655353241990993
+    second: light stars_78
+  - first:
+      213: -6962747165431237957
+    second: light stars_79
+  - first:
+      213: -861356496765458954
+    second: light stars_80
+  - first:
+      213: -3342091868453458525
+    second: light stars_81
+  - first:
+      213: 4327055969039007013
+    second: light stars_82
+  - first:
+      213: -4201212372906586000
+    second: light stars_83
+  - first:
+      213: 4773439798125179512
+    second: light stars_84
+  - first:
+      213: 5546689404252147668
+    second: light stars_85
+  - first:
+      213: -1798818328398974386
+    second: light stars_86
+  - first:
+      213: 1945360963107394507
+    second: light stars_87
+  - first:
+      213: -7918467702907943132
+    second: light stars_88
+  - first:
+      213: -8647747041465998666
+    second: light stars_89
+  - first:
+      213: 931133222265774088
+    second: light stars_90
+  - first:
+      213: 8645197127493505359
+    second: light stars_91
+  - first:
+      213: -8262404842849170943
+    second: light stars_92
+  - first:
+      213: -8056072671947934999
+    second: light stars_93
+  - first:
+      213: -1414639559644713163
+    second: light stars_94
+  - first:
+      213: -4247918157062819671
+    second: light stars_95
+  - first:
+      213: 5349046478411122581
+    second: light stars_96
+  - first:
+      213: 7974100476387047957
+    second: light stars_97
+  - first:
+      213: -36014589252106301
+    second: light stars_98
+  - first:
+      213: -6832979770965037488
+    second: light stars_99
+  - first:
+      213: -8387562382542308638
+    second: light stars_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: light stars_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 948
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8552ae1845d6fd30800000000000000
+      internalID: 4464990586312742287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 948
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bb6ebd3a2c3c2a0800000000000000
+      internalID: -6718312210081858786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 975
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c84055c6ede1790800000000000000
+      internalID: -7557358567816917897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 970
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b615f4d257ba040800000000000000
+      internalID: 4659947076909624100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 855
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d246d395975fc20800000000000000
+      internalID: 3239628931151965452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 850
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a0711a834844ca0800000000000000
+      internalID: -6033552222013945222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 813
+        width: 181
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b8f2d9a2c5fe680800000000000000
+      internalID: -8723652615097840812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 866
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c88ece9ef1234810800000000000000
+      internalID: 1748278457819629769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 642
+        width: 590
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409de795abae1adf0800000000000000
+      internalID: -170597224777066236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 808
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3661ffd011c93cb00800000000000000
+      internalID: 847692751938983523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 791
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068eab43fb5365540800000000000000
+      internalID: 4996239931953834080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_11
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 806
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b077f57c92898d0800000000000000
+      internalID: -2839473628780229854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090888cf8261ae020800000000000000
+      internalID: 2371732519055294608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 763
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fde44ed8ec22c230800000000000000
+      internalID: 3657535226051358201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 763
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87d52a5401c1a300800000000000000
+      internalID: 261702477800658831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 741
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b742553f64f3efbd0800000000000000
+      internalID: -2594566761356123013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 741
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138cc15130a2c5d70800000000000000
+      internalID: 9033141145325848625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 715
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522b4d137bcf052b0800000000000000
+      internalID: -5597696473076288987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 554
+        width: 153
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509b4edba4f758cb0800000000000000
+      internalID: -4862340263686391547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 672
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602915a326d35fc70800000000000000
+      internalID: 9004170522091688454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 676
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5080f959f92e6d0b0800000000000000
+      internalID: -5704122702980249595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 655
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33a07416173fe4c0800000000000000
+      internalID: -4256122554870095041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 627
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12def73bb346f6890800000000000000
+      internalID: -7462635849952269023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_23
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 637
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f8b838174093380800000000000000
+      internalID: -8991150295483707548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 599
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6d8e5d388bc33e0800000000000000
+      internalID: -2072578852128237860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 585
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e9f7a6ac6e12960800000000000000
+      internalID: 7575589805258415654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 614
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a6b6f599fc65870800000000000000
+      internalID: 8671346390186289823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_27
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 391
+        width: 251
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d6b2e44d8c427a0800000000000000
+      internalID: -6402771956043911839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_28
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 573
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8079c2af8a08480b0800000000000000
+      internalID: -5727311362868340984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_29
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 614
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872107afea916cb30800000000000000
+      internalID: 4307158332943110776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_30
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 610
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe99707264248d80800000000000000
+      internalID: -8249428612223492366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bdf4017423a2ee0800000000000000
+      internalID: -1285159462863119516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 585
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1473cfaf6424b9e0800000000000000
+      internalID: -1606619104955632611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 328
+        width: 266
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e715e7479382b6ef0800000000000000
+      internalID: -113953138335133314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_34
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 568
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfffbdc17c1e69710800000000000000
+      internalID: 1699794154677862396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_35
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 575
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d710d559e4432c10800000000000000
+      internalID: 2027540026204624854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_36
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 552
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab0a8383526d0d20800000000000000
+      internalID: 3246359017232665504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_37
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 547
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32503dcf712e03b80800000000000000
+      internalID: -8416979110901643997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_38
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 539
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12c8df19c7fc2720800000000000000
+      internalID: 2822903509649244702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_39
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 551
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce57629e562e0660800000000000000
+      internalID: 7353857429167627972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 514
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2866ec8c3b15143c0800000000000000
+      internalID: -4377127530217445758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 518
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e648587d712fa80800000000000000
+      internalID: -8434652937686061471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_42
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 523
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4f67c48150d4770800000000000000
+      internalID: 8596532865640363248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_43
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 501
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ec8f11eabc3e3e0800000000000000
+      internalID: -2025551458900324852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 452
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06318bcc199ff3e30800000000000000
+      internalID: 4485578158484493152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_45
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 474
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4ac6ad4b6218600800000000000000
+      internalID: 468698394423764167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 435
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f685f2b240ec420800000000000000
+      internalID: 2652061814092230406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_47
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 430
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69646b701a0aca680800000000000000
+      internalID: -8742436163153410410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_48
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 281
+        width: 158
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8166588ae1df7f200800000000000000
+      internalID: 213917815441548824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_49
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 388
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2b0eabd7dbcef50800000000000000
+      internalID: 6912107875810718380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_50
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 371
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f314a3978bf83a0800000000000000
+      internalID: -6660902493049766103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 395
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8ed5ca37adb7470800000000000000
+      internalID: 8393542520882981101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 345
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac087431deb0fe40800000000000000
+      internalID: 5688256135106661536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_53
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 367
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe87e0cdf747f6b0800000000000000
+      internalID: -5262658484370436359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_54
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 386
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538c67409c369c350800000000000000
+      internalID: 6037466490481330229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 369
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d14d77c7b58d350800000000000000
+      internalID: 6041679490261982595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_56
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 360
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea79c7a91798b3a60800000000000000
+      internalID: 7654863112662456238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_57
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 343
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cb0c3140e245380800000000000000
+      internalID: -8983504761651151824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_58
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 321
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6255765c8ce39cb00800000000000000
+      internalID: 849279036762314022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_59
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 265
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021547ea40c75d3c0800000000000000
+      internalID: -4335422706725662432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_60
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 324
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dd8cea21de4fed0800000000000000
+      internalID: -2381017638474556142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 295
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbfc246e9847b8d0800000000000000
+      internalID: -2830713995656365071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_62
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 119
+        width: 168
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ac66a4b2028b530800000000000000
+      internalID: 3870879250028874383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_63
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 259
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d323191bf25d9550800000000000000
+      internalID: 6169178302978401241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_64
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 236
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b736683c26fc4ae80800000000000000
+      internalID: -8168175801049128069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_65
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 227
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7249ac7c5358f4a90800000000000000
+      internalID: -7327491602676804569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_66
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 258
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8679f64050ac0e60800000000000000
+      internalID: 7929889310541182602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_67
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 251
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0800c302086af6390800000000000000
+      internalID: -7822850958492434304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_68
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 233
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c242d408087c6d0800000000000000
+      internalID: -2970264140689167233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_69
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 205
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93ef0292caf813a0800000000000000
+      internalID: -6694325132505128036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_70
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 208
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a8f0027504830a0800000000000000
+      internalID: -6901695686001063276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 183
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306372f9b5457f430800000000000000
+      internalID: 3816611961708688899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_72
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 170
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1177c16667f8b60800000000000000
+      internalID: 7750543664664220121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_73
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 63
+        width: 132
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7217cf90ed8b3af0800000000000000
+      internalID: -415582544708824449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_74
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 194
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633b7778f36702750800000000000000
+      internalID: 6278147895782257462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_75
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 175
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233e2b92f715e3ff0800000000000000
+      internalID: -54516538879581390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_76
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 146
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54527601b9ca075c0800000000000000
+      internalID: -4219683068851051195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_77
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 187
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711116459c49f4120800000000000000
+      internalID: 2400300718836748567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_78
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 124
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1577d9e056ec95c40800000000000000
+      internalID: 5501655353241990993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_79
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 147
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2fc9fd75a5f5f90800000000000000
+      internalID: -6962747165431237957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_80
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 160
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5e15174d8db04f0800000000000000
+      internalID: -861356496765458954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_81
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 159
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad2c1e17218e91d0800000000000000
+      internalID: -3342091868453458525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_82
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 159
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dbdc56a7acc0c30800000000000000
+      internalID: 4327055969039007013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_83
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 117
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0705de61b9b42b5c0800000000000000
+      internalID: -4201212372906586000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_84
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 113
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872b6f3a43aae3240800000000000000
+      internalID: 4773439798125179512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_85
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 129
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df4fd320acc9fc40800000000000000
+      internalID: 5546689404252147668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_86
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 120
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e423158c2405907e0800000000000000
+      internalID: -1798818328398974386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_87
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 80
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc39ded2d7f4ffa10800000000000000
+      internalID: 1945360963107394507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_88
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 70
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427c4caf393fb1290800000000000000
+      internalID: -7918467702907943132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_89
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 86
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2ebfd22e70df780800000000000000
+      internalID: -8647747041465998666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_90
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 86
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80067b77bbc0cec00800000000000000
+      internalID: 931133222265774088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_91
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 85
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f415a75bbf8e9f770800000000000000
+      internalID: 8645197127493505359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_92
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 101
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a028f429a065d80800000000000000
+      internalID: -8262404842849170943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_93
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 58
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2bfc77694133090800000000000000
+      internalID: -8056072671947934999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_94
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 48
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f692ac0d03e5ce0800000000000000
+      internalID: -1414639559644713163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_95
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 65
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0b65d41fc5c05c0800000000000000
+      internalID: -4247918157062819671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_96
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 74
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597cfb08e61ab3a40800000000000000
+      internalID: 5349046478411122581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_97
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 55
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ab25a7222b9ae60800000000000000
+      internalID: 7974100476387047957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_98
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 43
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c785e00cec008ff0800000000000000
+      internalID: -36014589252106301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_99
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 39
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ee23ad9116c21a0800000000000000
+      internalID: -6832979770965037488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: light stars_100
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaf229c374699b80800000000000000
+      internalID: -8387562382542308638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      light stars_0: 4464990586312742287
+      light stars_1: -6718312210081858786
+      light stars_10: 4996239931953834080
+      light stars_100: -8387562382542308638
+      light stars_11: -2839473628780229854
+      light stars_12: 2371732519055294608
+      light stars_13: 3657535226051358201
+      light stars_14: 261702477800658831
+      light stars_15: -2594566761356123013
+      light stars_16: 9033141145325848625
+      light stars_17: -5597696473076288987
+      light stars_18: -4862340263686391547
+      light stars_19: 9004170522091688454
+      light stars_2: -7557358567816917897
+      light stars_20: -5704122702980249595
+      light stars_21: -4256122554870095041
+      light stars_22: -7462635849952269023
+      light stars_23: -8991150295483707548
+      light stars_24: -2072578852128237860
+      light stars_25: 7575589805258415654
+      light stars_26: 8671346390186289823
+      light stars_27: -6402771956043911839
+      light stars_28: -5727311362868340984
+      light stars_29: 4307158332943110776
+      light stars_3: 4659947076909624100
+      light stars_30: -8249428612223492366
+      light stars_31: -1285159462863119516
+      light stars_32: -1606619104955632611
+      light stars_33: -113953138335133314
+      light stars_34: 1699794154677862396
+      light stars_35: 2027540026204624854
+      light stars_36: 3246359017232665504
+      light stars_37: -8416979110901643997
+      light stars_38: 2822903509649244702
+      light stars_39: 7353857429167627972
+      light stars_4: 3239628931151965452
+      light stars_40: -4377127530217445758
+      light stars_41: -8434652937686061471
+      light stars_42: 8596532865640363248
+      light stars_43: -2025551458900324852
+      light stars_44: 4485578158484493152
+      light stars_45: 468698394423764167
+      light stars_46: 2652061814092230406
+      light stars_47: -8742436163153410410
+      light stars_48: 213917815441548824
+      light stars_49: 6912107875810718380
+      light stars_5: -6033552222013945222
+      light stars_50: -6660902493049766103
+      light stars_51: 8393542520882981101
+      light stars_52: 5688256135106661536
+      light stars_53: -5262658484370436359
+      light stars_54: 6037466490481330229
+      light stars_55: 6041679490261982595
+      light stars_56: 7654863112662456238
+      light stars_57: -8983504761651151824
+      light stars_58: 849279036762314022
+      light stars_59: -4335422706725662432
+      light stars_6: -8723652615097840812
+      light stars_60: -2381017638474556142
+      light stars_61: -2830713995656365071
+      light stars_62: 3870879250028874383
+      light stars_63: 6169178302978401241
+      light stars_64: -8168175801049128069
+      light stars_65: -7327491602676804569
+      light stars_66: 7929889310541182602
+      light stars_67: -7822850958492434304
+      light stars_68: -2970264140689167233
+      light stars_69: -6694325132505128036
+      light stars_7: 1748278457819629769
+      light stars_70: -6901695686001063276
+      light stars_71: 3816611961708688899
+      light stars_72: 7750543664664220121
+      light stars_73: -415582544708824449
+      light stars_74: 6278147895782257462
+      light stars_75: -54516538879581390
+      light stars_76: -4219683068851051195
+      light stars_77: 2400300718836748567
+      light stars_78: 5501655353241990993
+      light stars_79: -6962747165431237957
+      light stars_8: -170597224777066236
+      light stars_80: -861356496765458954
+      light stars_81: -3342091868453458525
+      light stars_82: 4327055969039007013
+      light stars_83: -4201212372906586000
+      light stars_84: 4773439798125179512
+      light stars_85: 5546689404252147668
+      light stars_86: -1798818328398974386
+      light stars_87: 1945360963107394507
+      light stars_88: -7918467702907943132
+      light stars_89: -8647747041465998666
+      light stars_9: 847692751938983523
+      light stars_90: 931133222265774088
+      light stars_91: 8645197127493505359
+      light stars_92: -8262404842849170943
+      light stars_93: -8056072671947934999
+      light stars_94: -1414639559644713163
+      light stars_95: -4247918157062819671
+      light stars_96: 5349046478411122581
+      light stars_97: 7974100476387047957
+      light stars_98: -36014589252106301
+      light stars_99: -6832979770965037488
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,11 +9,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 989596961308678479}
+  - component: {fileID: 6187540305937106389}
   - component: {fileID: 3049939508937437512}
   - component: {fileID: 691344055328500387}
   - component: {fileID: 4255497784147482272}
-  - component: {fileID: 6187540305937106389}
   - component: {fileID: -1287909410428778571}
+  - component: {fileID: 4175728156041574135}
   m_Layer: 6
   m_Name: Asteroid
   m_TagString: Asteroid
@@ -36,6 +37,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6187540305937106389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6219814296858060623}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2160a729edf10e7498452eef23118399, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ObtaculeMovement
+  ObtaculeSO: {fileID: 11400000, guid: 217b6dfc9970ee04eb8cf946beba33a6, type: 2}
+  animator: {fileID: 4175728156041574135}
+  speedObtacule: 10
 --- !u!212 &3049939508937437512
 SpriteRenderer:
   serializedVersion: 2
@@ -168,20 +184,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.4891434, y: 1.1639076}
   m_EdgeRadius: 0
---- !u!114 &6187540305937106389
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6219814296858060623}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2160a729edf10e7498452eef23118399, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ObtaculeMovement
-  ObtaculeSO: {fileID: 11400000, guid: 217b6dfc9970ee04eb8cf946beba33a6, type: 2}
-  speedObtacule: 10
 --- !u!96 &-1287909410428778571
 TrailRenderer:
   serializedVersion: 4
@@ -328,3 +330,25 @@ TrailRenderer:
   m_Autodestruct: 0
   m_Emitting: 1
   m_ApplyActiveColorSpace: 1
+--- !u!95 &4175728156041574135
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6219814296858060623}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 50a421b378375d3428849f39dc9760d6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

@@ -11,7 +11,6 @@ public class MovementPlataform : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
     }
-
     private void Start()
     {
         starPos = plataformSO.startPosition;

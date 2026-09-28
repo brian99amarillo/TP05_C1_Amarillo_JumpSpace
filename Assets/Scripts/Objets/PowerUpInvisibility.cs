@@ -16,23 +16,25 @@ public class PowerUpInvisibility : MonoBehaviour
        {
           Player player = collision.gameObject.GetComponent<Player>();
           player.StartCoroutine(InvicibilityRoutine());
-
-
-            Destroy(gameObject);
+          Destroy(gameObject);
        }
     }
     private IEnumerator InvicibilityRoutine()
     {
         activedInvincibility = true;
         Physics2D.IgnoreLayerCollision(LayerMask.NameToLayer("Player"), LayerMask.NameToLayer("Asteroid"), true);
+        UITimer.Instance.PanelActived();
 
-        yield return new WaitForSeconds(timePowerUp);
+        while (timePowerUp > 0f)
+        {
+            UITimer.Instance.TimerON(timePowerUp);
+            yield return null;
+            timePowerUp -= Time.deltaTime;
+        }
 
+        UITimer.Instance.PanelDisable();
         Physics2D.IgnoreLayerCollision(LayerMask.NameToLayer("Player"), LayerMask.NameToLayer("Asteroid"), false);
         activedInvincibility = false;
     }
-
-
-
 
 }
