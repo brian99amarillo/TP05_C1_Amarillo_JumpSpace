@@ -11,10 +11,11 @@ public class UIMenuPause : MonoBehaviour
     [SerializeField] private Button btnExit;       
 
     [Header("Panels & Scenes")]
-    [SerializeField] private GameObject Pause;
-    [SerializeField] private GameObject SettingsPanel;
-    [SerializeField] private GameObject CredittsPanel;
-    [SerializeField] private GameObject Game;
+    [SerializeField] private GameObject pause;
+    [SerializeField] private GameObject settingsPanel;
+    [SerializeField] private GameObject credittsPanel;
+    [SerializeField] private GameObject game;
+    [SerializeField] private GameObject background;
 
     [SerializeField] private ControllerMusic controllerMusic;
     private bool isPause = false;
@@ -28,7 +29,7 @@ public class UIMenuPause : MonoBehaviour
 
     private void Start()
     {
-        Pause.SetActive(false);
+        pause.SetActive(false);
     }
 
     private void Update()
@@ -43,8 +44,9 @@ public class UIMenuPause : MonoBehaviour
         isPause = true;
         controllerMusic.PauseMusicGameplay();
         controllerMusic.ActiveMusicMenuPause();
-        Game.SetActive(false);
-        Pause.SetActive(true);
+        game.SetActive(false);
+        background.SetActive(false);
+        pause.SetActive(true);
         Time.timeScale = 0f; // Detiene el tiempo
     }
 
@@ -53,8 +55,9 @@ public class UIMenuPause : MonoBehaviour
         isPause = false;
         controllerMusic.StopMusicMenuPause();
         controllerMusic.ActiveMusicGameplay();
-        Pause.SetActive(false);
-        Game.SetActive(true);
+        pause.SetActive(false);
+        game.SetActive(true);
+        background.SetActive(true);
         Time.timeScale = 1f; // Reanuda el tiempo
     }
         private void OnDestroy()  
@@ -71,13 +74,13 @@ public class UIMenuPause : MonoBehaviour
     { Reanudar();}   
     private void OnSettingsButtonClicked() 
     {
-        Pause.SetActive(false);
-        SettingsPanel.SetActive(true);
+        pause.SetActive(false);
+        settingsPanel.SetActive(true);
     }
     private void OnCredittsButtonClicked()
     {
-        Pause.SetActive(false);
-        CredittsPanel.SetActive(true);
+        pause.SetActive(false);
+        credittsPanel.SetActive(true);
     }
     private void OnExitButtonClicked() 
     {

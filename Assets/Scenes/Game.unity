@@ -1574,7 +1574,7 @@ MonoBehaviour:
   m_text: GAME OVER
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 321918fd1830ff34bb3023eb1b60a418, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -8147529812466693312, guid: 321918fd1830ff34bb3023eb1b60a418, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1640,7 +1640,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: -79.70645, w: -5.812004}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1205434840
@@ -2436,7 +2436,7 @@ GameObject:
   - component: {fileID: 1852187228}
   - component: {fileID: 1852187227}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: 'Canvas '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2631,10 +2631,11 @@ MonoBehaviour:
   btnSettings: {fileID: 1679255756}
   btnCreditts: {fileID: 728796066}
   btnExit: {fileID: 1019427287}
-  Pause: {fileID: 1232245799}
-  SettingsPanel: {fileID: 1435135897}
-  CredittsPanel: {fileID: 1624235034}
-  Game: {fileID: 682978282}
+  pause: {fileID: 1232245799}
+  settingsPanel: {fileID: 1435135897}
+  credittsPanel: {fileID: 1624235034}
+  game: {fileID: 1852187226}
+  background: {fileID: 682978282}
   controllerMusic: {fileID: 1569871863}
 --- !u!114 &1938051521
 MonoBehaviour:
@@ -3116,9 +3117,9 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 519420032}
-  - {fileID: 682978286}
   - {fileID: 1954212723}
   - {fileID: 468953948}
+  - {fileID: 682978286}
   - {fileID: 1852187230}
   - {fileID: 1498726519}
   - {fileID: 344686643}

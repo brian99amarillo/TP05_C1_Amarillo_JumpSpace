@@ -706,6 +706,10 @@ PrefabInstance:
       propertyPath: audioSource
       value: 
       objectReference: {fileID: 255796892}
+    - target: {fileID: 2050188757027624855, guid: 3ed39c7ae3392384aaa0d085b1f06afe, type: 3}
+      propertyPath: m_text
+      value: Play
+      objectReference: {fileID: 0}
     - target: {fileID: 2100570876754074782, guid: 3ed39c7ae3392384aaa0d085b1f06afe, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1
@@ -1025,6 +1029,10 @@ PrefabInstance:
     - target: {fileID: 8102422469632160200, guid: 3ed39c7ae3392384aaa0d085b1f06afe, type: 3}
       propertyPath: m_Name
       value: MainMenuCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 8130086420464843530, guid: 3ed39c7ae3392384aaa0d085b1f06afe, type: 3}
+      propertyPath: m_Name
+      value: ButtonPlay
       objectReference: {fileID: 0}
     - target: {fileID: 8222556447917728353, guid: 3ed39c7ae3392384aaa0d085b1f06afe, type: 3}
       propertyPath: audioSource
