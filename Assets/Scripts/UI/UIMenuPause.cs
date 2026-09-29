@@ -16,7 +16,6 @@ public class UIMenuPause : MonoBehaviour
     [SerializeField] private GameObject credittsPanel;
     [SerializeField] private GameObject game;
     [SerializeField] private GameObject background;
-
     [SerializeField] private ControllerMusic controllerMusic;
     private bool isPause = false;
     private void Awake()
